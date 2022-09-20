@@ -2,7 +2,7 @@ from math import pi
 
 
 def surf_cercle(r):
-    return 2 * pi * r**2
+    return pi * r**2
 
 
-print(surf_cercle(30))
+print(surf_cercle(2.5))
