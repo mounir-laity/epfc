@@ -1,5 +1,4 @@
 from statistics import mean
-from math import inf
 
 notes = []
 count = 0
