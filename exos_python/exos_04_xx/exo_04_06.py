@@ -9,7 +9,7 @@ def convert_secs(secs):
     secs = secs - (hours * 3600)
     minutes = secs // 60
     secs = secs - (minutes * 60)
-    return years, months, days, hours, minutes, secs
+    return f"Cela fait {years} ans, {months} mois, {days} jours, {hours} heures, {minutes} minutes et {secs} secondes"
 
 
-print(convert_secs(10))
+print(convert_secs(125999))
