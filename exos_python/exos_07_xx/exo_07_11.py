@@ -10,4 +10,4 @@ def nom_mois(n):
 print(nom_mois(10))
 print(nom_mois(1))
 print(nom_mois(12))
-print(nom_mois(0))
+# print(nom_mois(0))
