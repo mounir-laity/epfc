@@ -1,3 +1,4 @@
+"""Ecrivez un programme NumPy pour créer un tableau 3X4 en l'utilisant et itérez dessus."""
 import numpy as np
 
 arr = np.random.random((3,4))

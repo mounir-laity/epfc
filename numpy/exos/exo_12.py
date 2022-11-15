@@ -1,3 +1,5 @@
+"""Écrivez un programme NumPy pour créer un tableau avec les valeurs 1, 7, 13, 105 et déterminer la
+taille de la mémoire occupée par le tableau."""
 import numpy as np
 arr1 = np.array([1,7,13,105])
 arr2 = np.array([1,7,13,105], dtype=np.int8)

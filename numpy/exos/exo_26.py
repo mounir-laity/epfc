@@ -1,3 +1,6 @@
+"""Écrivez un programme NumPy pour trouver le nombre de lignes et de colonnes d'une matrice
+donnée."""
+
 import numpy as np
 
 def find_dimensions(array):

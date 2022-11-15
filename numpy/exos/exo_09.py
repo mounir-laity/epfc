@@ -1,3 +1,5 @@
+"""Ecrivez un programme NumPy pour tester si deux tableaux sont égaux au niveau élément dans une
+tolérance."""
 import numpy as np
 
 print("Test if two arrays are element-wise equal within a tolerance:")

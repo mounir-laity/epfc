@@ -1,3 +1,4 @@
+"""Écrivez un programme NumPy pour multiplier les valeurs de deux vecteurs donnés."""
 import numpy as np
 
 vector1 = np.random.randint(low=0,high=10, size=5)

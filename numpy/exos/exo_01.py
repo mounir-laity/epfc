@@ -1,3 +1,5 @@
+"""Écrivez un programme NumPy pour obtenir la version numpy et afficher la configuration de
+construction numpy."""
 import numpy as np
 
 print(f"Numpy's version is : {np.__version__}")

@@ -1,3 +1,5 @@
+"""Écrivez un programme NumPy pour tester la finitude d'un tableau donné par élément (pas l'infini ou
+pas un nombre)."""
 import numpy as np
 
 arr = np.array([1,2,3,4,5,6])
