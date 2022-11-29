@@ -24,3 +24,5 @@ df = pd.DataFrame.from_dict({'A': [1.1, 2.7, 5.3], 'B': [2,10, 9], 'C': [3.3, 5.
 # print(df)
 # Sélection d'une colonne
 print(df["B"])
+# Sélection de plusieurs colonnes. Il faut ajouter une paire de crochets.
+print(df[["A","C"]])
