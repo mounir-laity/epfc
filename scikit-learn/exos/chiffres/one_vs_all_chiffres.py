@@ -1,4 +1,3 @@
-import numpy as np
 from sklearn.multiclass import OneVsRestClassifier
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_digits
