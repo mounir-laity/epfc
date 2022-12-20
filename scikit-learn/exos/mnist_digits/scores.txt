@@ -1,0 +1,9 @@
+Pour k=1, le score obtenu est 0.9653571428571428
+Pour k=2, le score obtenu est 0.9561904761904761
+Pour k=3, le score obtenu est 0.9645238095238096
+Pour k=4, le score obtenu est 0.9632142857142857
+Pour k=5, le score obtenu est 0.9648809523809524
+Pour k=6, le score obtenu est 0.964047619047619
+Pour k=7, le score obtenu est 0.9644047619047619
+Pour k=8, le score obtenu est 0.9635714285714285
+Pour k=9, le score obtenu est 0.9641666666666666
