@@ -10,7 +10,7 @@ def predict_image(index, df_test):
     test = image.values.reshape(1, -1)
     image = image.values.reshape(28,28)
     plt.imshow(image, cmap = 'Greys_r')
-    print(f"L'image d'indice {index} est un {model.predict(test)[0]}")
+    print(f"La catégorie prédite pour l'image d'indice {index} est {model.predict(test)[0]}")
     plt.show(block=False)
     
 def find_best_k():
